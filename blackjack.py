@@ -2,7 +2,7 @@
 
 # This is a text based blackjack game with betting
 # Regular win pays back bet and blackjack pays double and tie pays back to normal
-# By Nico Mihalich, 2008
+# By Nico Mihalich, 2008-2011
 #################################################################################
 # For dealing
 from random import *
